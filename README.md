@@ -1,0 +1,3 @@
+This project is a basic clone of [the old _Breakout_ arcade game](https://en.wikipedia.org/wiki/Breakout_(video_game)), implemented with HTML5's canvas and pure JavaScript.
+
+The code is based on a Mozilla Developer Network [tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript), but reimplements the game as a reusable object and allow basic customization.
